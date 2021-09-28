@@ -17,7 +17,7 @@ jobs:
         # Only 1 keyboard is supported.  For more keyboards, copy and rename this file.
         keyboard: ['CNCEncoderPad']
         # Keymap of the keyboard to setup.  Multiple keymaps can be setup following this example: ['default','jpconstantineau']
-        keymap: ['resolve']
+        keymap: ['resolve', 'test']
         # keyboard configuration. Multiple configs can be setup following this example: ['left','right']
         keyboard_config: ['single']
         # hardware configuration. must have both components of the path in the BlueMicro_BLE keyboard examples path
